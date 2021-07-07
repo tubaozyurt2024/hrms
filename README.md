@@ -1,2 +1,2 @@
 # Hrms
- Human Resource Management
+ Human Resource Management with Java Spring Boot,PostgreSql
